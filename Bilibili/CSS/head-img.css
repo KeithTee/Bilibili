@@ -1,0 +1,24 @@
+.header .back_img {
+    width: 100%;
+    height: 155px;
+    
+}
+.header .back_img img{
+   
+    width: 100%;
+    height: 155px;
+    position:absolute;
+    top:0;
+    z-index: -1;
+}
+.header .back_bili {
+    position: absolute;
+    display: inline-block;
+    top: 70px;
+    left: 40px;
+}
+.header .back_bili img {
+    width: 162px;
+    height: 78px;
+    cursor: pointer;
+}

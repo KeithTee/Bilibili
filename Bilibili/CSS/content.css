@@ -1,0 +1,18 @@
+.content {
+    height: 10000px;
+}
+.content .content_top{
+    display: inline-flex;
+    width: 1400px;
+    height: 110px;
+    margin:0 64px;
+}
+.content .content_top_left{
+    flex: 1;
+}
+.content .content_top_middle{
+    flex: 4.4;
+}
+.content .content_top_right{
+    flex: 1;
+}
