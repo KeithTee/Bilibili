@@ -16,3 +16,23 @@
 .content .content_top_right{
     flex: 1;
 }
+.content .content_top .content_top_left{
+    display: inline-flex;
+    
+}
+.content .content_top .content_top_left img{
+    width: 46px;
+    height: 46px;
+    display: block;
+    margin-right: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.content .content_top .content_top_left span{
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 2px;
+    cursor: pointer;
+}
