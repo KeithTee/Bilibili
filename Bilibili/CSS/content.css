@@ -24,6 +24,12 @@
 .content .content_top .content_top_left .active{
     cursor: pointer;
 }
+.content .content_top .content_top_left .news{
+    cursor: pointer;
+}
+.content .content_top .content_top_left .channel{
+    cursor: pointer;
+}
 .content .content_top .content_top_left img{
     width: 46px;
     height: 46px;
