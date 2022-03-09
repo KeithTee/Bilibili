@@ -1,2 +1,0 @@
-# Bilibili
-copy bilibili

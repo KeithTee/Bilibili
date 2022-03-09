@@ -1,9 +1,11 @@
-.content {
+.content{
     height: 10000px;
+    width: 1400px;
+    margin: 0 auto;
 }
 .content .content_top{
     display: inline-flex;
-    width: 1400px;
+    width: 100%;
     height: 110px;
     margin:0 64px;
 }
@@ -18,7 +20,9 @@
 }
 .content .content_top .content_top_left{
     display: inline-flex;
-    
+}
+.content .content_top .content_top_left .active{
+    cursor: pointer;
 }
 .content .content_top .content_top_left img{
     width: 46px;
@@ -26,7 +30,7 @@
     display: block;
     margin-right: 20px;
     margin-top: 10px;
-    cursor: pointer;
+    
 }
 .content .content_top .content_top_left span{
     display: block;
@@ -34,5 +38,4 @@
     font-size: 16px;
     font-weight: 600;
     padding-left: 2px;
-    cursor: pointer;
 }
